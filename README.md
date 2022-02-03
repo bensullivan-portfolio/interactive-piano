@@ -1,3 +1,3 @@
 # iPiano
 
-This is an interactive piano. 
+This is an interactive piano!
